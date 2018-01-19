@@ -1,3 +1,11 @@
+"""
+Based on
+
+https://pythonprogramming.net/custom-objects-tracking-tensorflow-object-detection-api-tutorial/?completed=/video-tensorflow-object-detection-api-tutorial/
+
+"""
+
+
 import numpy as np
 import os
 import six.moves.urllib as urllib
